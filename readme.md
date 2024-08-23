@@ -7,10 +7,25 @@ Changes the font to monospace for the current webpage and persists the change. S
 
 Some websites where I faced this issue was: https://packagist.org/ & https://filestage.io/
 
+
+## Download
+- Click on `Releases` and download the extension for `chrome` browser.
+
+
+## Installation
+
+```bash
 - Clone the repo
 - Enable developer mode in chrome
 - Load unpacked extension
 - Locate and done! 
+```
+    
+## Screenshots
 
+![Chrome issue with font](https://i.imgur.com/resMvSl.png)
 
+![Click on Extension](https://i.imgur.com/UVJwYMu.png)
+
+![Font fixed](https://i.imgur.com/4lTO2Lq.png)
 
