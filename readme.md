@@ -29,3 +29,5 @@ Some websites where I faced this issue was: https://packagist.org/ & https://fil
 
 ![Font fixed](https://i.imgur.com/4lTO2Lq.png)
 
+![Chrome Issue](https://i.imgur.com/LuVSfWt.png)
+![FontFix](https://i.imgur.com/kWlmU7h.png)
